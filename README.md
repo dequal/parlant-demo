@@ -163,16 +163,3 @@ self._client = AsyncClient(
 
 欢迎提交Issue和Pull Request来改进这个项目！
 
-## 📄 许可证
-
-本项目基于 Apache 2.0 许可证开源。
-
----
-
-## 📱 关注我们
-
-扫描下方二维码关注公众号，获取更多AI开发资讯：
-
-<div align="center">
-  <img src="qrcode_1m.jpg" alt="公众号二维码" width="200"/>
-</div>
