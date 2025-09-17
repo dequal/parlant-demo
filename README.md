@@ -159,7 +159,4 @@ self._client = AsyncClient(
 3. **环境变量**: 必须正确设置 `OPENAI_API_KEY` 和 `OPENAI_BASE_URL`
 4. **模型兼容性**: 确保您使用的模型支持OpenAI兼容的API格式
 
-## 🤝 贡献
-
-欢迎提交Issue和Pull Request来改进这个项目！
 
